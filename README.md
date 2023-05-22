@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/do-huynh/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239983371-8adf63db-0746-4158-866f-56829534fd53.png"></img>
   </a>
-  <a href="https://www.instagram.com/namdohuynh/" target="_blank"****>
+  <a href="https://www.instagram.com/namdohuynh/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239983569-217f805b-588f-4e71-954e-1ec7e93f048e.png"></img>
   </a>
   <a href="https://twitter.com/huynhnamdo" target="_blank">
@@ -19,4 +19,6 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77046082/239985577-096abe8c-cf53-4289-b266-30b03e6abf8a.gif"/>
+</p>
