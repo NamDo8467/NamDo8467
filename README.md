@@ -71,6 +71,8 @@
 <!-- gruvbox theme -->
 <!-- [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
