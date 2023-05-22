@@ -63,10 +63,14 @@
  
   ## My GitHub Stats
 <!--  vision-friendly-dark theme  -->
-[![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=vision-friendly-dark&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=default&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- gruvbox theme -->
 <!-- [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
