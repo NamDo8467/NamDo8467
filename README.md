@@ -61,7 +61,7 @@
 </div>
  <br/>
  
-  ## My GitHub Stats
+  # My GitHub Stats
 <!--  vision-friendly-dark theme  -->
 [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
