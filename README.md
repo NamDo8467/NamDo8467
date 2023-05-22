@@ -6,16 +6,16 @@
 </h1>
 <p align="center">
   <a href="https://portfolio-seven-topaz-17.vercel.app/">
-    <img height="50" src="https://github.com/NamDo8467/NamDo8467/assets/77046082/8738c35d-76d0-4073-918d-dc8d86ca1c5e"></img>
+    <img height="50" src="https://user-images.githubusercontent.com/77046082/239982871-b07d9d63-a301-4132-aebd-1b16fdabec49.png"></img>
   </a>
   <a href="https://www.linkedin.com/in/do-huynh/">
-    <img height="50" src="https://github.com/NamDo8467/NamDo8467/assets/77046082/8466829b-3f82-4429-b8c0-fa289a6ee29e"></img>
+    <img height="50" src="https://user-images.githubusercontent.com/77046082/239983371-8adf63db-0746-4158-866f-56829534fd53.png"></img>
   </a>
   <a href="https://www.instagram.com/namdohuynh/">
-    <img height="50" src="https://github.com/NamDo8467/NamDo8467/assets/77046082/ef612275-7469-4e07-bf69-89fbd8865448"></img>
+    <img height="50" src="https://user-images.githubusercontent.com/77046082/239983569-217f805b-588f-4e71-954e-1ec7e93f048e.png"></img>
   </a>
   <a href="https://twitter.com/huynhnamdo">
-    <img height="50" src="https://github.com/NamDo8467/NamDo8467/assets/77046082/32c2e841-ac92-4b55-99f4-48b2875eef09"></img>
+    <img height="50" src="https://user-images.githubusercontent.com/77046082/239983925-a9b6c804-08a0-4538-a193-5d3a8a9a9cd4.png"></img>
   </a>
 </p>
 
