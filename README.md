@@ -32,7 +32,7 @@
 </div>
 
 # 👨🏻‍💻 &nbsp;About Me:
-- ### 🏫I am currently pursuing my **Bachelor in Computer Science** and working as a **Software Developer** at **[Leap](https://www.linkedin.com/company/joinleapco/)**.
+- ### 🏫I am pursuing my **Bachelor in Computer Science** and working as a **Software Developer** at **[Leap](https://www.linkedin.com/company/joinleapco/)**.
 - ### 🎓I have completed my Advanced Diploma in Computer Programming.
 - ### 🌱My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
