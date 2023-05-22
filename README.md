@@ -31,11 +31,14 @@
   <img src="https://user-images.githubusercontent.com/77046082/240003358-0282e170-09bd-4494-a598-eabc56b518d7.gif"/>
 </div>
 
-👨🏻‍💻 &nbsp;About Me:
-- 🎓 I am currently pursuing my **Bachelor's in Computer Science**.
-- 🎯 My Goal is to Contribute to as many **open source project** as possible
-- ✨ I love to create different types of **contents**.
-- 🌱 My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
+<h2>👨🏻‍💻 &nbsp;About Me:</h2>
+
+- #### 🎓I have completed my Advanced Diploma in Computer Programming.
+- #### 🏫I am currently pursuing my **Bachelor's in Computer Science**.
+- #### 🎯My goal is to become a **Software Engineer**.
+- #### 🌱My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
+- #### ✨I love to create different types of **contents**.
+
 
     
 
