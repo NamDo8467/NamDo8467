@@ -38,6 +38,8 @@
 - #### 🌱My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
 - #### ✨I love to create different types of **contents**.
 
+<br/>
+
 ## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -57,5 +59,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+ <br/>
  
+  ## My GitHub Stats
+<!--  vision-friendly-dark theme  -->
+[![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- gruvbox theme -->
+<!-- [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
