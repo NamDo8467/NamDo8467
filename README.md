@@ -38,7 +38,7 @@
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
 
 <br/>
-<a href="https://app.daily.dev/dohuynh"><img src="https://api.daily.dev/devcards/81be31c8cde8465ab3442d36ddc8cb39.png?r=g3f" width="400" alt="Do Huynh's Dev Card"/></a>
+
 # :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -66,10 +66,11 @@
 [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=contribs,&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=vision-friendly-dark&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=default&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 <!-- gruvbox theme -->
 <!-- [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://app.daily.dev/dohuynh"><img src="https://api.daily.dev/devcards/81be31c8cde8465ab3442d36ddc8cb39.png?r=g3f" width="400" alt="Do Huynh's Dev Card"/></a>
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
