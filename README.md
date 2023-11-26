@@ -31,11 +31,17 @@
   <img src="https://user-images.githubusercontent.com/77046082/240003358-0282e170-09bd-4494-a598-eabc56b518d7.gif"/>
 </div>
 
-# 👨🏻‍💻 &nbsp;About Me:
+  # 👨🏻‍💻 &nbsp;About Me:
 - ### 🏫I am pursuing my **Bachelor in Computer Science** and working as a **Software Developer** at **[Leap](https://www.linkedin.com/company/joinleapco/)**.
 - ### 🎓I have completed my Advanced Diploma in Computer Programming.
 - ### 🌱My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
+
+<div align="center">
+  
+  <a href="https://app.daily.dev/dohuynh"><img src="https://api.daily.dev/devcards/81be31c8cde8465ab3442d36ddc8cb39.png?r=g3f" width="400" alt="Do Huynh's Dev Card"/></a>
+</div>
+
 
 <br/>
 
@@ -69,7 +75,6 @@
 <!-- gruvbox theme -->
 <!-- [![Do Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamDo8467&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo8467&hide=c%23,php&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<a href="https://app.daily.dev/dohuynh"><img src="https://api.daily.dev/devcards/81be31c8cde8465ab3442d36ddc8cb39.png?r=g3f" width="400" alt="Do Huynh's Dev Card"/></a>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
