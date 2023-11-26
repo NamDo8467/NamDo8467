@@ -38,8 +38,7 @@
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
 
 <div align="center">
-  
-  <a href="https://app.daily.dev/dohuynh"><img src="https://api.daily.dev/devcards/81be31c8cde8465ab3442d36ddc8cb39.png?r=g3f" width="400" alt="Do Huynh's Dev Card"/></a>
+  <a href="https://app.daily.dev/dohuynh"><img src="https://github.com/NamDo8467/NamDo8467/blob/main/devcard.svg" width="400" alt="Do Huynh's Dev Card"/></a>
 </div>
 
 
