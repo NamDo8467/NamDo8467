@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello%20there!&animation=fadeIn&type=waving&height=100&color=gradient&fontColor=ff7800"/>
 </p>
 <h1 align="center">
-  Let's connect and have a Chat!
+  Let's connect and have a chat!
   <img src="https://user-images.githubusercontent.com/77046082/239987970-99d0974f-a309-4f15-bda8-3164bb3c9cab.gif" width="30px"/>
 </h1>
 
