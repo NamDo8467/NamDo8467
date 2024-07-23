@@ -41,6 +41,7 @@
 - ### Guessing game: [Demo](https://namdo8467.github.io/GuessingGame/), [Source code](https://github.com/NamDo8467/GuessingGame)
 - ### Galaxy War: [Demo](https://www.youtube.com/watch?v=MiIscbIg504), [Source code](https://github.com/NamDo8467/GalaxyWar)
 - ### My Notflix: [Demo](my-notflix.netlify.app/), [Source code](https://github.com/NamDo8467/Netflix-Clone)
+- ### Tic Tac Toe: [Demo](https://react-tic-tac-toe-virid-eta.vercel.app/), [Source code](https://github.com/NamDo8467/React-TicTacToe)
 
 <div align="center">
   <a href="https://app.daily.dev/dohuynh"><img src="https://github.com/NamDo8467/NamDo8467/blob/main/devcard.svg" width="400" alt="Do Huynh's Dev Card"/></a>
