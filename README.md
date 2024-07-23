@@ -37,6 +37,11 @@
 - ### 🌱My skills are related to **Web Developement** where I am using **ReactJS** and **NextJS**
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
 
+ # 💻 Sample Projects:
+- ### **[Guessing game](https://namdo8467.github.io/GuessingGame/)**.
+- ### **[Galaxy War](https://github.com/NamDo8467/GalaxyWar)**.
+- ### **[My Notflix](my-notflix.netlify.app/)**
+
 <div align="center">
   <a href="https://app.daily.dev/dohuynh"><img src="https://github.com/NamDo8467/NamDo8467/blob/main/devcard.svg" width="400" alt="Do Huynh's Dev Card"/></a>
 </div>
