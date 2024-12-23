@@ -19,12 +19,12 @@
   <a href="https://www.linkedin.com/in/do-huynh/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239983371-8adf63db-0746-4158-866f-56829534fd53.png"></img>
   </a>
-  <a href="https://www.instagram.com/namdohuynh/" target="_blank">
+<!--   <a href="https://www.instagram.com/namdohuynh/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239983569-217f805b-588f-4e71-954e-1ec7e93f048e.png"></img>
   </a>
   <a href="https://twitter.com/huynhnamdo" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239983925-a9b6c804-08a0-4538-a193-5d3a8a9a9cd4.png"></img>
-  </a>
+  </a> -->
 </p>
 
 <div align="center">
