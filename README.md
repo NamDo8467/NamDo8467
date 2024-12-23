@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://portfolio-seven-topaz-17.vercel.app/" target="_blank">
+  <a href="https://andyhuynh.webflow.io/" target="_blank">
     <img height="50" src="https://user-images.githubusercontent.com/77046082/239982871-b07d9d63-a301-4132-aebd-1b16fdabec49.png"></img>
   </a>
   <a href="https://www.linkedin.com/in/do-huynh/" target="_blank">
