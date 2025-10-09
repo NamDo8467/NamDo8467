@@ -32,10 +32,9 @@
 </div>
 
   # 👨🏻‍💻 &nbsp;About Me:
-- ### 🏫I am pursuing my **Bachelor in Computer Science**.
-- ### 🏢 I worked as a **Software Developer** at **[Leap](https://www.linkedin.com/company/joinleapco/)** from 2022 to 2023
+- ### 🏫I am pursuing my **Bachelor Degree in Computer Science**.
+- ### 🏢 I am working as a **Full Stack Developer** at **[NoblKids](https://www.noblkids.com/)**
 - ### 🎓I have completed my Advanced Diploma in Computer Programming.
-- ### 🌱My skills are related to **Web Development** where I am using **ReactJS** and **NextJS**
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
 
  # 💻 Sample Projects:
