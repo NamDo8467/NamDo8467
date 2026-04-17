@@ -33,7 +33,7 @@
 
   # 👨🏻‍💻 &nbsp;About Me:
 - ### 🏫I am pursuing my **Bachelor Degree in Computer Science**.
-- ### 🏢 I am working as a **Full Stack Developer** at **[NoblKids](https://www.noblkids.com/)**
+- ### 🏢 I am working as a **Software Developer** at **[RBC](https://www.rbc.com/)** (Royal Bank of Canada)
 - ### 🎓I have completed my Advanced Diploma in Computer Programming.
 - ### ⚽ I love to play **soccer** and analyze soccer matches.
 
